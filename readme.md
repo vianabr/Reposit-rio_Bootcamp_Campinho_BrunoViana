@@ -11,4 +11,4 @@
 * ### Exemplo <h3>
 >Um exemplo fácil de entender é o do "iceberg", a parte visível do gelo podemos chamar de front-end, mas sabemos que o iceberg é bem maior do que parece, pois, grande parte não está visível, estando submersa, essa parte não visível podemos chamar de back-end.
 
-![Iceberg]("https://img.icons8.com/bubbles/100/000000/iceberg.png")
+![Iceberg](https://img.icons8.com/bubbles/100/000000/iceberg.png)
