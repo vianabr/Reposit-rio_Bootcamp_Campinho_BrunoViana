@@ -1,4 +1,4 @@
-# Diferença entre Desenvolvedor Front-end e Back-end <h1> ![Frontend ou Backend?](https://img.icons8.com/ios/64/000000/question--v1.png)
+# Diferença entre Desenvolvedor Front-end e Back-end <h1> ![Frontend ou Backend?](https://img.icons8.com/ios/50/000000/question--v1.png)
 
 * ### O que é um desenvolvedor Front-end? <h3> ![Frontend](https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-front-end-web-development-flaticons-flat-flat-icons.png)
 > Quando você visita e visualiza toda a página com os principais artigos organizados, menu de navegação categorizado e layout definido com as cores branco e roxo como principais, você acaba visualizando e interagindo com o front-end daquele site.
