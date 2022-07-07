@@ -1,0 +1,43 @@
+IF e ELSE
+Com if e else voce poderá estabelecer uma condição a ser executada pelo navegador,
+o que for colocado dentro do comparador if, o js analisará e se a informação for verdadeira (true)
+a ação de if será executada e caso seja falso (false) vai ser executado dentro do expecificado no else.
+
+OPERADORES ARITIMÉTICOS BÁSICOS
+
+ADIÇÃO (+) =  Soma de valores (ou concatenação se string);
+SUBTRAÇÃO (-) = Diferença entre valores;
+MULTIPLICAÇÃO (*) = Produto dos valores;
+DIVISÃO (/) = Quociente dos valores
+MÓDULO (%) = Resto existente em uma operação de divisão (7/2= 3 retorna 1)
+INCREMENTO (++) = Pré/Pós incremento (Adiciona +1 antes ou depois
+DECREMENTO (--) = Pré/Pós decremento (Retira -1 antes ou depois)
+
+Operadores de Comparação (condicionais) JavaScript
+
+Igual (==) - Verifica se os valores comparados são iguais;
+
+Idêntico (===) - Verifica se os valores comprados são iguais e do mesmo tipo;
+
+Diferente (!=) - Verifica se os valores comparados são diferentes;
+
+Não idêntico (!==) - Verifica se os valores comparados são diferentes e de tipos diferentes;
+
+Menor (<) - Verifica se o valor da esquerda é menor que o valor da direita;
+
+Maior (>) - Verifica se o valor da esquerda é maior que o valor da direita;
+
+Menor igual (<=) - Verifica se o valor da esquerda é menor ou igual ao valor da direita;
+
+Maior igual (>=) - Verifica se o valor da esquerda é maior ou igual ao valor da direita
+
+Operadores lógicos:
+E (&&) - Verdadeiro se todas as expressões forem verdadeiras;
+
+OU (||) - Verdadeiro se pelo menos uma das expressões for verdadeira;
+
+Negação (!) - Inverte o resultado da expressão de comparação.*/
+		
+true && true && false = false
+true || true || false = true
+
